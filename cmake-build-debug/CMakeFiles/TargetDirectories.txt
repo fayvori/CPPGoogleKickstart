@@ -1,0 +1,3 @@
+C:/Users/Сергей/CLionProjects/GoogleKickstart/cmake-build-debug/CMakeFiles/GoogleKickstart.dir
+C:/Users/Сергей/CLionProjects/GoogleKickstart/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Сергей/CLionProjects/GoogleKickstart/cmake-build-debug/CMakeFiles/rebuild_cache.dir

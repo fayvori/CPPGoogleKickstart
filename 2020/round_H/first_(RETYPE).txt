@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(false), cin.tie(nullptr);
+
+	int T; cin >> T;
+	for (int case_num = 1; case_num <= T; case_num ++) {
+        int N, K, S; cin >> N >> K >> S;
+        int ans = min(N + 1, (N - S) + (K - S) + 1) + (K - 1);
+        cout << "Case #" << case_num << ": " << ans << '\n';
+	}
+
+	return 0;
+}
